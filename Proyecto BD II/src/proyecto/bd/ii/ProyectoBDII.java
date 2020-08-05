@@ -18,6 +18,8 @@ public class ProyectoBDII {
         // TODO code application logic here
         int X=2;
         System.out.println("valor :"+X);
+        System.out.println("valor :"+X);
+        System.out.println("valor :"+X);
     }
     
 }
