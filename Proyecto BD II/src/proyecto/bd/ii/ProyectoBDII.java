@@ -20,6 +20,7 @@ public class ProyectoBDII {
         System.out.println("valor :"+X);
         System.out.println("valor :"+X);
         System.out.println("valor :"+X);
+        int y=5;
     }
     
 }
